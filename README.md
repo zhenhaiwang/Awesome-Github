@@ -1,4 +1,4 @@
-## Awesomes
+## Awesome List
 
   - [Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) - A maintained collection of useful & free unity scripts, librarys, plugins and extensions
   - [Unity-Toolbag](https://github.com/nickgravelyn/UnityToolbag) - Variety of Unity scripts and tools
