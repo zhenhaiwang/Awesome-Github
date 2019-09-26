@@ -7,6 +7,7 @@
   - [Awesome-Unity-Free](https://github.com/netpyoung/awesome-unity-free) - A community driven list of useful Unity packages,  libraries and others
   - [Awesome-Unity-Shader](https://github.com/QianMo/Awesome-Unity-Shader) - List of cool Unity shader resources
   - [Awesome-Game-Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) - A curated list of game network programming resources
+  - [Awesome-Game-Server](https://github.com/hstcscolor/awesome-gameserver-cn) - List of game server programming resources
   - [Awesome-Dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
   - [Awesome-Dotnet-Core](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software
   - [Awesome-Architect](https://github.com/xingshaocheng/architect-awesome) - List of knowledges for backend architect
