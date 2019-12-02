@@ -3,7 +3,7 @@
   - [Games](https://github.com/leereilly/games) - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub
   - [Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) - A maintained collection of useful & free unity scripts, librarys, plugins and extensions
   - [Unity-Toolbag](https://github.com/nickgravelyn/UnityToolbag) - Variety of Unity scripts and tools
-  - [UnityExtensions](https://github.com/yuyang9119/UnityExtensions) - Variety of Unity extensions
+  - [Unity-Extensions](https://github.com/yuyang9119/UnityExtensions) - Variety of Unity extensions
   - [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - A wonderful list of Game Development resources
   - [Awesome-WeChat-WeApp](https://github.com/justjavac/awesome-wechat-weapp) - List of WeChat-WeApp programming resources
   - [Awesome-Unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more
