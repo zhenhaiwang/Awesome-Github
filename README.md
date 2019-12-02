@@ -16,3 +16,4 @@
   - [Awesome-Windows](https://github.com/Awesome-Windows/Awesome) - An awesome & curated list of best applications and tools for Windows
   - [Awesome-Mac](https://github.com/jaywcjlove/awesome-mac) - An awesome & curated list of best applications and tools for Mac
   - [Awesome-VSCode](https://github.com/viatsko/awesome-vscode) - A curated list of delightful VS Code packages and resources
+  - [Awesome-UPM](https://github.com/starikcetin/awesome-upm) - A curated list of awesome Git repositories for Unity that support Unity Package Manager (UPM)
