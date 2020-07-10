@@ -19,4 +19,8 @@
   - [Awesome-VSCode](https://github.com/viatsko/awesome-vscode) - A curated list of delightful VS Code packages and resources
   - [Awesome-UPM](https://github.com/starikcetin/awesome-upm) - A curated list of awesome Git repositories for Unity that support Unity Package Manager (UPM)
   - [Awesome-Unity-Open-Source-On-Github](https://github.com/baba-s/awesome-unity-open-source-on-github) - A categorized collection of awesome Unity open source on GitHub
+  - [Awesome-Node.js](https://github.com/sindresorhus/awesome-nodejs) - Curating the best Node.js modules and resources
+  - [Awesome-Code-Review](https://github.com/joho/awesome-code-review) - A curated list of tools, articles, books, and any other resource related to code review
+  - [Awesome-Awesome-List](https://github.com/jnv/lists) - List of useful, silly and awesome lists curated on GitHub
+  - [Awesome-Vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
   - [GameDev](https://github.com/crazyshader/GameDev)- A curated list of Game Development resources
