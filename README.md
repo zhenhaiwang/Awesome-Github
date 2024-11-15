@@ -1,7 +1,7 @@
 ## Awesome List
 
   - [Games](https://github.com/leereilly/games) - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub
-  - [GameDev](https://github.com/crazyshader/GameDev)- A curated list of Game Development resources
+  - [GameDev](https://github.com/crazyshader/GameDev) - A curated list of Game Development resources
   - [Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) - A maintained collection of useful & free unity scripts, librarys, plugins and extensions
   - [Unity-Toolbag](https://github.com/nickgravelyn/UnityToolbag) - Variety of Unity scripts and tools
   - [Unity-Extensions](https://github.com/yuyang9119/UnityExtensions) - Variety of Unity extensions
@@ -24,3 +24,4 @@
   - [Awesome-Code-Review](https://github.com/joho/awesome-code-review) - A curated list of tools, articles, books, and any other resource related to code review
   - [Awesome-Awesome-List](https://github.com/jnv/lists) - List of useful, silly and awesome lists curated on GitHub
   - [Awesome-Vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
+  - [Awesome-Guidelines](https://github.com/Kristories/awesome-guidelines) - A set of guidelines for a specific programming language that provides recommendations on programming style, best practices, and methods for various aspects of writing programs in that language
